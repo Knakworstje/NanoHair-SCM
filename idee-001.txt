@@ -1,7 +1,4 @@
-Gel die je in je haar doet en dan kan je de gel besturen met een app en dan kan je je haar stijl veranderen naar wat je wilt. 
+Gel die je in je haar doet en haargroei stimuleert.
 Machinam Meliorem Vir (Apparaat, verbeter, mens, MMV)
 Het Product:
-Een biologische afbreekbare gel, die bestaat uit gelatine moneculen, watermoneculen en nanotechnologie voor de sturing van het haar.
-
-En je krijgt een netje met in het midden een klein apparaatje wat als het een WIFI signaal ontvangt (localhost:3000/true) elektrische schokjes uitzendt via koperdraadjes die er aan vast zitten. Er zit ook een hendeltje aan waarmee je het netje weg kan halen, maar eerst moet je het apparaatje stoppen met het signaal localhost:3000/false
-Waarschuwingen erbij plaatsen: raak geen dingen aan die je schokken geven (dus geen elektriciteit in pure vorm). En draag het niet als het warmer is dan 80 graden of kouder -25 graden
+Een biologische afbreekbare gel, die bestaat uit gelatine moneculen, watermoneculen, brandnetel, pepermuntolie, aloë vera, rozenmarijn en brandnetel.
